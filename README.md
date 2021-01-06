@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [linkedin.com/in/astronada](linkedin.com/in/astronada)
 
-- 💬 Ask me about **fashion,music and cinema**
+- 💬 Ask me about **fashion, music and cinema**
 
 - 📫 How to reach me **about.me/JoaoMota**
 
