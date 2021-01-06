@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Mota</h1>
 <h3 align="center">A young designer from Portugal</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astronada" alt="astronada" /></a> </p>
-
 - 🔭 I’m currently working on [a MBWay rework](coming soon)
 
 - 🌱 I’m currently learning **Figma & Blender**
