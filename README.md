@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Mota</h1>
 <h3 align="center">A young designer from Portugal</h3>
 
-- 🔭 I’m currently working on [a MBWay rework](coming soon)
+- 🔭 I’m currently working on [a MBWay rework] (coming soon)
 
 - 🌱 I’m currently learning **Figma & Blender**
 
