@@ -17,8 +17,6 @@
 
 - 📄 Know about my experiences [linkedin.com/in/astronada](linkedin.com/in/astronada)
 
-- ⚡ Fun fact **I practiced over 15 federated sports before 18**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/astronada" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="astronada" height="30" width="40" /></a>
