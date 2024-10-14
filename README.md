@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Mota</h1>
 <h3 align="center">A UX designer from Portugal</h3>
 
-- 🔭 I’m currently working @etn-corp and @ubiwhere as a UI/UX Design Engineer and Principal UX Designer
+- 🔭 I’m currently working [@etn-corp](github.com/etn-crop) and [@etn-corp](https://github.com/Ubiwhere) as a UI/UX Design Engineer and Principal UX Designer
 
 - 🌱 I’m currently learning 3D
 
