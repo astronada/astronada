@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm João Mota</h1>
-<h3 align="center">A young designer from Portugal</h3>
+<h3 align="center">A UX designer from Portugal</h3>
 
-- 🔭 I’m currently working @Ubiwhere as a UI/UX Designer
+- 🔭 I’m currently working @Eaton and @Ubiwhere as a UI/UX Design Engineer and Principal UX Designer
 
-- 🌱 I’m currently learning **Figma & Blender**
+- 🌱 I’m currently learning 3D
 
-- 👯 I’m looking to collaborate on **a multimedia project**
+- 👯 I’m looking to collaborate on **a short movie**
 
-- 👨‍💻 All of my projects are available at [behance.net/astronada](behance.net/astronada)
+- 👨‍💻 All of my projects are available at [behance.net/astronada](behance.net/astronada) (mostly under NDA)
 
-- 📝 I regularly write articles on [linkedin.com/in/astronada](linkedin.com/in/astronada)
+- 📝 I  write articles on [astronada.pt](astronada.pt)
 
 - 💬 Ask me about **fashion, music and cinema**
 
-- 📫 How to reach me **about.me/JoaoMota**
+- 📫 How to reach me **astronada.pt**
 
 - 📄 Know about my experiences [linkedin.com/in/astronada](linkedin.com/in/astronada)
 
